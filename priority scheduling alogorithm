@@ -49,3 +49,5 @@ total+=tat[i];
 atat=total/n; //average turnaround time
 
 printf("\n\nAverage Waiting Time=%d",awt);
+printf("\nAverage Turnaround Time=%d\n",atat);
+return 0;}
